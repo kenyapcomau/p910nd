@@ -8,6 +8,8 @@ Older versions are found at https://sourceforge.net/projects/p910nd/ Development
 
 0.97
 
+Note that this is the same version as the last released version from 2014. No features have been added, nor any bugs fixed from that version. Several distributions have packaged this software ready to use. If you not a developer there is no advantage to cloning this repository. The move to Github is to facilitate any submission of bug fixes and contributions.
+
 ## Authors
 
 **Ken Yap** and others
